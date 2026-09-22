@@ -1,7 +1,7 @@
 spring:
   application:
     name: multithreading
-
+#database connection
   datasource:
     url: jdbc:postgresql://localhost:5432/multithreading
     username: postgres
